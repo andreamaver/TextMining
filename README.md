@@ -7,15 +7,15 @@
 <h2  align="center">Text mining and search project</h2>
 
 
-The project consists 
+The project consists in testing different classification and summarization algorithms applied to a dataset of American patents to find the best performing one. Given the high number of patents published every day, having an automatic system that could help in their classification and make the human job easier could be a nice addition to any workflow; the same could be said for creating automatic summaries.
 
-The data 
+The data is from the [BigPatents dataset](https://evasharma.github.io/bigpatent/) and has been pre-processed using different techiniques like tokenization, stemming and
+lemmatization to find the best performing one. To classify the documets different machine learining methods have been tried, like a Decision Tree, a Random Forest Classifier, a Linear SVM and K-Nearest Neighbour. To summarize the texts two techniques have been applied, an extractive one graph-based and an abstractive one based on the Google model Pegasus.
 
-You can check out the full paper (available only in Italian) describing all the steps in great detail at: [Analisi bacino idrico](https://github.com/andreamaver/IndustryLab/blob/main/Braga_Maver_Bacino_idrico.pdf "Braga_Maver_Bacino_idrico.pdf").
+You can check out the full paper (available only in Italian) describing all the steps in great detail at: [Analisi bacino idrico](https://github.com/andreamaver/TextMining/blob/main/Text_Mining_Search_Project_Braga_Maver.pdf "Text_Mining_Search_Project_Braga_Maver.pdf").
 
-  
 
-In the [Notebooks](https://github.com/andreamaver/IndustryLab/tree/main/Notebooks) folder the Python scripts used for the project can be found, enumerated by their usage. The [Models](https://github.com/andreamaver/IndustryLab/tree/main/Models) folder stores all the models that were trained during the project developments.
+In the [Notebook](https://github.com/andreamaver/TextMining/tree/main/Notebook) folder the Python scripts used for the project can be found, enumerated by their usage.
 
   
 ### About us
