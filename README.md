@@ -12,7 +12,7 @@ The project consists in testing different classification and summarization algor
 The data is from the [BigPatents dataset](https://evasharma.github.io/bigpatent/) and has been pre-processed using different techiniques like tokenization, stemming and
 lemmatization to find the best performing one. To classify the documets different machine learining methods have been tried, like a Decision Tree, a Random Forest Classifier, a Linear SVM and K-Nearest Neighbour. To summarize the texts two techniques have been applied, an extractive one graph-based and an abstractive one based on the Google model Pegasus.
 
-You can check out the full paper (available only in Italian) describing all the steps in great detail at: [Study of classification and summarization techniques applied to the BigPatent dataset](https://github.com/andreamaver/TextMining/blob/main/Text_Mining_Search_Project_Braga_Maver.pdf "Text_Mining_Search_Project_Braga_Maver.pdf").
+You can check out the full paper (available in English) describing all the steps in great detail at: [Study of classification and summarization techniques applied to the BigPatent dataset](https://github.com/andreamaver/TextMining/blob/main/Text_Mining_Search_Project_Braga_Maver.pdf "Text_Mining_Search_Project_Braga_Maver.pdf").
 
 
 In the [Notebook](https://github.com/andreamaver/TextMining/tree/main/Notebook) folder the Python scripts used for the project can be found, enumerated by their usage.
